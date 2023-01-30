@@ -1,0 +1,39 @@
+# BAZI TANIMLAYICI BAŞLIK.
+# Telif hakkı (C) 2022 PAKETİN TELİF HAKKI SAHİBİ Radio3.0
+# Bu dosya Radio3.0 paketi ile aynı lisans altında dağıtılmaktadır..
+# Serkan Önder <serkanonder@outlook.com>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Radio3.0 v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-21 13:54+0100\n"
+"PO-Revision-Date: 2022-12-11 20:07+0300\n"
+"Last-Translator: Serkan Önder <serkanonder@outlook.com>\n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: applet.js:1657 applet.js:1703
+msgid "Volume: %s%"
+msgstr ""
+
+#: applet.js:3737
+msgid "Manual..."
+msgstr ""
+
+#. settings-schema.json->dont-check-dependencies->description
+msgid "Do not check about dependencies"
+msgstr ""
+
+#. settings-schema.json->recording-path->description
+msgid "Path to the folder that will contain your future recordings"
+msgstr ""
+
+#. settings-schema.json->button-rec-path-to-default->description
+msgid "Set this path to default one"
+msgstr ""
